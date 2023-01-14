@@ -14,7 +14,7 @@ Procedure of seam carving:
     -Vertical seam line: Finding the lowest energy of each row
     -Horizontal seam line: Finding the lowest energy of each column
     -Preparing for the removing height or width based on the seam line
--Removing that seam line 
+- Removing that seam line 
     -reducing height: Iterating each column to get rid of the horizontal seam line. 
     -reducing width: Iterating each row to get rid of the vertical seam line.
 
